@@ -60,8 +60,9 @@ complexity, I also added an on-off switch (which is irrelevant to the problem)
 
 We start with the cap on an batteries outside. The goal is to have the batteries inside and cap on.
 
-The ttorch problem can be seen in the test tree in TestTorchProblem.java.
+The torch problem can be seen in the test tree in TestTorchProblem.java.
 
+## References
 [^1]: Steven M. LaValle, Planning Algorithms, Cambridge University Press, 2006.
 
 [^2]: Alex Nash, Sven Keonig, Maxim Likachev; Incremental Phi*: 
